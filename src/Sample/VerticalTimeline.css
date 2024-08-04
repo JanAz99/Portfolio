@@ -1,0 +1,67 @@
+
+.timeline {
+    position: relative;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    width: 2px;
+    height: 100%;
+    background-color: white;
+    
+    transform: translateX(-50%);
+  }
+  
+  .timeline-item {
+    position: relative;
+    margin: 70px 0;
+    padding-left: 20px;
+  }
+  
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    width: 12px;
+    height: 12px;
+    background-color: #007bff;
+    border-radius: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .timeline-date {
+    font-size: 14px;
+    color: white;
+    
+  }
+  
+  .timeline-content {
+    padding: 10px 20px;
+    background-color: rgb(163, 31, 220);
+    
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .timeline-title {
+    margin: 0;
+    font-size: 18px;
+    color: white;
+  }
+  
+  .timeline-company {
+    margin: 0;
+    font-size: 16px;
+    color: white;
+  }
+  
+  .timeline-description {
+    margin: 10px 0 0;
+    font-size: 14px;
+    color: white;
+  }
+  
