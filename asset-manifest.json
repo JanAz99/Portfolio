@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.b85ad40d.css",
+    "main.js": "/Portfolio/static/js/main.6c4de2c2.js",
+    "static/js/453.241f0b5b.chunk.js": "/Portfolio/static/js/453.241f0b5b.chunk.js",
+    "static/media/BabyO.png": "/Portfolio/static/media/BabyO.5d348bd185d9f73902fd.png",
+    "static/media/UC.png": "/Portfolio/static/media/UC.5ce1d41ba495cfeac255.png",
+    "static/media/FoodR.png": "/Portfolio/static/media/FoodR.009bc67cad8498689935.png",
+    "static/media/Calc.png": "/Portfolio/static/media/Calc.5eab7507641abc83a326.png",
+    "static/media/fa-solid-900.ttf": "/Portfolio/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Portfolio/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Portfolio/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Portfolio/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/janani.jpg": "/Portfolio/static/media/janani.d0f96644f79b2408f785.jpg",
+    "static/media/fa-regular-400.ttf": "/Portfolio/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Portfolio/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Portfolio/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Portfolio/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Portfolio/index.html",
+    "main.b85ad40d.css.map": "/Portfolio/static/css/main.b85ad40d.css.map",
+    "main.6c4de2c2.js.map": "/Portfolio/static/js/main.6c4de2c2.js.map",
+    "453.241f0b5b.chunk.js.map": "/Portfolio/static/js/453.241f0b5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b85ad40d.css",
+    "static/js/main.6c4de2c2.js"
+  ]
+}
