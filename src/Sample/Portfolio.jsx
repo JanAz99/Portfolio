@@ -1,7 +1,7 @@
 import React from 'react';
 import './Style.css';
 import Pic from "./Assets/janani.jpg";
-import '@fontawesome/fontawesome-free/css/all.min.css';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 import Pic1 from "./Assets/html.png";
 import Pic2 from "./Assets/CSS.png";
 import Pic3 from "./Assets/JS.png";
